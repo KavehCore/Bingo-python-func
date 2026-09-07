@@ -1,5 +1,5 @@
 #imports and globals  variables
-
+import random
 
 # generate a random number
 
